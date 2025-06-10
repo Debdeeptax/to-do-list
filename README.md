@@ -1,5 +1,5 @@
-o-do-list-application-python
-DEVELOPED BY PARTHIV MAJUMDAR ON 07-03-2024 PLEASE FOLLOW THE STEPS OF HOW TO RUN THE PROGRAM
+To-do-list-application-python
+PLEASE FOLLOW THE STEPS OF HOW TO RUN THE PROGRAM
 
 FOR TASK ADDING
 --- To-Do List ---
@@ -12,6 +12,7 @@ Exit Enter your choice: 1
 Enter task description: maths Enter task priority (high/medium/low): high Enter due date (DD-MM-YYYY): 12-03-2024 Task added successfully!
 TO MARK AS COMPLETED
 --- To-Do List ---
+
 
 Add Task
 Remove Task
